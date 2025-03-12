@@ -13,10 +13,6 @@ Crypto Dashboard Pro is an Excel-based dashboard created on **March 12, 2025**, 
 - **KPIs**: Displays total current value, highest profit, and biggest loss at a glance.
 - **Elegant Design**: Dark-themed interface with vibrant charts and icons.
 
-## Screenshots
-*(Add a screenshot of your Dashboard here by uploading an image to the repository and linking it like this:)*
-![Dashboard Screenshot](dashboard-screenshot.png)
-
 ## How to Use
 1. Download the `Crypto_Dashboard_Pro.xlsx` file from this repository.
 2. Open it in Microsoft Excel.
@@ -26,7 +22,7 @@ Crypto Dashboard Pro is an Excel-based dashboard created on **March 12, 2025**, 
 
 ## Sample Data
 - **Bitcoin (BTC)**: 0.5 units, Current Price: $81,715
-- **Ethereum (ETH)**: 10 units, Current Price: $2,183.50
+- **Ethereum (ETH)**: 10 units, Current Price: $2,183.50  
 *(Prices are placeholders as of March 12, 2025; update with real-time data.)*
 
 ## Requirements
@@ -39,10 +35,10 @@ No installation required—just download and open the Excel file!
 This project is a personal milestone, but feel free to fork it, adapt it, or suggest improvements via issues or pull requests.
 
 ## Author
-Created by **[Your Name]**  
-- GitHub: [github.com/yourusername](https://github.com/yourusername)  
-- Twitter: [@yourtwitter](https://twitter.com/yourtwitter)  
-- LinkedIn: [linkedin.com/in/yourlinkedin](https://linkedin.com/in/yourlinkedin)
+Created by **Hussen Aldhb**  
+- GitHub: [github.com/HussenAldhb](https://github.com/HussenAldhb)  
+- X: [@hussen44442](https://x.com/hussen44442)  
+- LinkedIn: [linkedin.com/in/hussen-aldhb-1133b6321](https://www.linkedin.com/in/hussen-aldhb-1133b6321)
 
 ## License
 This project is unlicensed and free to use for personal purposes.
